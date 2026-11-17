@@ -55,6 +55,28 @@ Mở `web/index.html` bằng Chrome hoặc Edge, không cần cài thư viện.
 - Có thể thao tác bàn, món ăn, đơn hàng, thanh toán và báo cáo.
 - Trình duyệt lưu thông tin vào `localStorage` trên chính máy đang dùng; đây là dữ liệu demo, không phải cơ sở dữ liệu dùng chung.
 
+### Giao diện tối giản và kiểm tra
+
+- `web/index.html`: cấu trúc trang và JavaScript nghiệp vụ.
+- `web/styles.css`: thiết kế sáng, màu nhấn xanh trầm, bố cục responsive; không cần thư viện ngoài.
+- `web/tests/smoke.cjs`: kiểm tra chức năng bằng Chrome/Edge headless trong profile riêng, không ảnh hưởng dữ liệu đang dùng.
+
+Từ thư mục chứa README này, chạy kiểm tra web (cần Node.js và Chrome hoặc Edge):
+
+```powershell
+node web/tests/smoke.cjs
+```
+
+Nếu trình duyệt cài ở vị trí khác, đặt biến `BROWSER_PATH` tới file thực thi. Kiểm tra bao gồm quản lý bàn và món, tìm kiếm/bộ lọc, gọi món và số lượng, hủy đơn, thanh toán tiền mặt/chuyển khoản, hóa đơn, doanh thu, lưu dữ liệu và bố cục ở 1440/768/390/320 px. File kiểm tra tạm nằm trong `web/build/` (được Git bỏ qua).
+
+Khi chạy web, giữ `index.html` và `styles.css` trong cùng thư mục. Có thể mở trực tiếp `index.html` hoặc dùng HTTP server:
+
+```powershell
+python -m http.server 8000 --directory web
+```
+
+Sau đó truy cập `http://localhost:8000`. Dữ liệu lưu riêng theo địa chỉ trình duyệt; dùng xuất/khôi phục JSON nếu cần chuyển từ mở file trực tiếp sang localhost.
+
 ## Chạy chương trình C++ (Windows / Linux / macOS)
 
 Yêu cầu: **trình biên dịch hỗ trợ C++17**, ví dụ `g++` (MinGW-w64 trên Windows).
