@@ -1,0 +1,201 @@
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: 
+ ID   TEN BAN                TRANG THAI
+  1   Ban 1                 TRONG
+  2   Ban 2                 TRONG
+  3   Ban 3                 TRONG
+  4   Ban 4                 TRONG
+  5   Ban 5                 TRONG
+  6   Ban 6                 TRONG
+  7   Ban 7                 TRONG
+  8   Ban 8                 TRONG
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: 
+ ID    MON AN                    GIA(VND)    DIEM   MO BAN
+ 101   Pho bo                         45000     9    CO
+ 102   Bun cha                        50000     9    CO
+ 103   Com rang                       40000     7    CO
+ 104   Ga nuong                       99000    10    CO
+ 105   Nem ran                        35000     8    CO
+ 106   Canh chua                      55000     7    CO
+ 107   Rau xao                        30000     6    CO
+ 108   Ca kho                         85000     9    CO
+ 109   Bo luc lac                    120000    10    CO
+ 110   Che                            25000     5    CO
+ 111   Tra da                         10000     4    CO
+ 112   Nuoc cam                       30000     6    CO
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Nhap ma mon can tim: Tim thay: Pho bo - 45000 VND
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: 
+ ID    MON AN                    GIA(VND)    DIEM   MO BAN
+ 111   Tra da                         10000     4    CO
+ 110   Che                            25000     5    CO
+ 107   Rau xao                        30000     6    CO
+ 112   Nuoc cam                       30000     6    CO
+ 105   Nem ran                        35000     8    CO
+ 103   Com rang                       40000     7    CO
+ 101   Pho bo                         45000     9    CO
+ 102   Bun cha                        50000     9    CO
+ 106   Canh chua                      55000     7    CO
+ 108   Ca kho                         85000     9    CO
+ 104   Ga nuong                       99000    10    CO
+ 109   Bo luc lac                    120000    10    CO
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Ngan sach (nghin VND, 10..2000): 
+GOI Y COMBO (moi mon toi da 1 lan)
+ - Pho bo : 45000 VND | diem 9
+ - Bun cha : 50000 VND | diem 9
+ - Nem ran : 35000 VND | diem 8
+ - Rau xao : 30000 VND | diem 6
+ - Tra da : 10000 VND | diem 4
+ - Nuoc cam : 30000 VND | diem 6
+Tong tien: 200000 VND | Tong diem ua thich: 42
+Luu y: diem ua thich la du lieu minh hoa; bai toan 0/1 khong chon lap mon.
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Ma ban: Da tao don #1 cho Ban 1
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Ma ban: Ma mon: So luong (1..100): Da them mon vao don.
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Ma ban: 
+DON #1 - BAN 1 - 2026-11-17_13:52:23
+  [101] Pho bo x 2 @ 45000 = 90000 VND
+TONG: 90000 VND
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Ma ban can thanh toan: Tong can thu: 90000 VND
+Xac nhan (1=thu tien, 0=huy): 
+============== HOA DON #1 ==============
+Ban 1, thoi gian: 2026-11-17_13:52:23
+Pho bo x 2 = 90000
+THANH TOAN: 90000 VND
+==========================================
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: 
+===== BAO CAO =====
+So ban: 8 | Ban dang phuc vu: 0
+Mon trong menu: 12
+So hoa don da thanh toan: 1
+Tong doanh thu da thu: 90000 VND
+
+========== QUAN LY NHA HANG - CONSOLE ==========
+ 1. Danh sach ban             2. Them ban
+ 3. Thuc don (theo ID)        4. Them mon
+ 5. Sua/An mon                6. Tim mon (Binary Search)
+ 7. Sap xep mon theo gia (Merge Sort)
+ 8. Mo don cho ban            9. Them mon vao don
+10. Xem don                  11. Xoa mon khoi don
+12. Thanh toan               13. Bao cao doanh thu
+14. Goi y combo (0/1 Knapsack)
+ 0. Luu va thoat
+=================================================
+Chon: Da luu. Tam biet!

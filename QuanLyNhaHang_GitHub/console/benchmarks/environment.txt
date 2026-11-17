@@ -1,0 +1,5 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Platform: Linux x86_64, optimization -O2
+Random seed: 20261117
+Measurement: std::chrono::steady_clock, one run per configuration
+Measurements are reference results from this execution environment, NOT measurements on the user device.
